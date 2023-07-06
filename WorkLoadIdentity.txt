@@ -1,0 +1,6 @@
+{
+	"AadClientId": "d317425b-45f7-4beb-ba06-f3bf47596543",
+	"AadSecret": "XcS8Q~29m4VnYMFIjz~t6qvdXWEORbLLnR~J0ct7",
+	"AadTenantDomain": "shyamag037.onmicrosoft.com",
+	"AadTenantId": "7299de64-2593-4679-84f6-ffc9dbf65ff8"
+}
